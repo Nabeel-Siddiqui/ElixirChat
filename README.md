@@ -16,7 +16,6 @@ Backend
 * Install dependencies with ```mix deps.get```
 * Create and migrate database with ```mix ecto.create && mix ecto.migrate```
 * Install Node.js dependencies with ```cd assets && npm install```
-* 
 
 
 ## Installation
