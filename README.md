@@ -1,5 +1,4 @@
-# ElixirChat
-![alt text](https://github.com/Nabeel-Siddiqui/pokedex/blob/master/public/logo.png)
+# ElixirChat💬
 <br>
 Live chatting application.
 
